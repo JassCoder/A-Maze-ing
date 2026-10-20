@@ -1,0 +1,13 @@
+# A-Maze-ing default configuration
+# One KEY=VALUE pair per line. Lines starting with # are ignored.
+
+WIDTH=20
+HEIGHT=15
+ENTRY=0,0
+EXIT=19,14
+OUTPUT_FILE=maze.txt
+PERFECT=False
+
+# Optional settings
+SEED=42
+ALGORITHM=backtracker
